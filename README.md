@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Holly, a PhD student in Ultrafast Laser-Plasma Physics 
-- 👀 I'm currently working on numerical simulations looking at High Harmonic Generation 
+- 👋 Hi, I’m Holly, a PhD student in Laser-Plasma Physics, with an interest in learning how to code in MATLAB and Python
+ 
 
 
 <!---
