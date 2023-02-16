@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Holly, a 1st year PhD student in Laser-Plasma Physics, with an interest in learning how to code in MATLAB and Python. 
-- 
+- 👋 Hi, I’m Holly, a 1st year PhD student in Laser-Plasma Physics, with an interest in learning how to code to better my research 
+ 
+
 
 
 <!---
