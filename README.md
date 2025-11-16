@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Holly, a PhD student in Laser-Plasma Physics. I'm interested in enhancing my signal processing skills and experience with Particle in Cell code.  
+- 👋 Hi, I’m Holly, a PhD student in Laser-Plasma Physics. I love simulations, and machine learning concepts to help guide them :)
  
 
 
